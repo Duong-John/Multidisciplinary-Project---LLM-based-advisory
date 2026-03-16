@@ -1,7 +1,7 @@
 # Multidisciplinary-Project: LLM-based-advisory
 ## Introduction:
 This is a repository for surveys, documents, and future products of the Project.
-LLM-based advisory is the topic of mine, which I am currently working on for my Multidisciplinary-Project. It is actually a small part of a larger system relating to a supercomputer, but this aspect focuses on utilizing LLM for kernel code optimization.
+LLM-based advisory is a topic that I am currently working on for my Multidisciplinary Project. It is actually a small part of a larger system relating to a supercomputer, but this aspect focuses on utilizing LLM for kernel code optimization.
 Currently, this repository is only composed of 2 surveys written in Vietnamese, which I conducted in the last two weeks to gain insights into some top-notch methodologies of using LLM to optimize kernel code.
 ## Reference:
 > **Note**: Run-time based Kernel Optimization
